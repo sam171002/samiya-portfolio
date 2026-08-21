@@ -1,0 +1,49 @@
+{
+  "experience": [
+    {
+      "id": "fractal-ds",
+      "title": "Data Scientist (GenAI)",
+      "company": "Fractal Analytics",
+      "type": "Full-time",
+      "period": "Aug 2025 - Present",
+      "location": "Gurugram, Haryana",
+      "description": "Working across the GenAI/LLM ecosystem: RAG pipelines, prompt engineering, LLM evaluation, multi-agent workflows, model orchestration and chatbots."
+    },
+    {
+      "id": "fractal-imagineer",
+      "title": "Imagineer (Trainee)",
+      "company": "Fractal Analytics",
+      "type": "Training",
+      "period": "Apr 2025 - Aug 2025",
+      "location": "Gurugram, Haryana",
+      "description": "Entry point into Fractal, prior to converting to full-time employee."
+    },
+    {
+      "id": "aspire",
+      "title": "IT/Tech Domain Leader (Volunteering)",
+      "company": "Aspire Institute",
+      "type": "Leadership",
+      "period": "Aug 2025 - Aug 2026",
+      "location": "Worldwide, Remote",
+      "description": "Representing Aspire's community in global forums, designing workshops on emerging technologies, and driving collaboration between students, professionals, and industry experts."
+    },
+    {
+      "id": "researchers",
+      "title": "Analyst",
+      "company": "Researchers.me",
+      "type": "Internship",
+      "period": "Feb 2025 - July 2025",
+      "location": "Dubai, UAE",
+      "description": "Analysed trends using Excel, SQL and Python, built Power BI dashboards, and delivered customer behavior insights that drove a revenue boost."
+    },
+    {
+      "id": "cornercircle",
+      "title": "Business Analyst",
+      "company": "CornerCircle",
+      "type": "Internship",
+      "period": "Nov 2024 - Feb 2025",
+      "location": "Remote",
+      "description": "Designed user-centric workflows and wireframes in Figma, streamlined project tracking in JIRA, improving task execution and reporting efficiency."
+    }
+  ]
+}

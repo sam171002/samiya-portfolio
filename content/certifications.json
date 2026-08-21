@@ -1,0 +1,41 @@
+{
+  "certifications": [
+    {
+      "id": "databricks-genai",
+      "title": "Databricks Certified Generative AI Engineer Associate",
+      "issuer": "Databricks",
+      "issued": "Jun 2026",
+      "expires": "Jun 2028",
+      "image": "/images/certifications/databricks-genai.jfif",
+      "verificationUrl": "https://credentials.databricks.com/d66377dc-bd30-4215-b8c1-c10a6dcb49e8#acc.OALFZTsd",
+      "skills": ["Generative AI", "Databricks Products"]
+    },
+    {
+      "id": "claude-architect",
+      "title": "Claude Certified Architect",
+      "issuer": "Anthropic",
+      "issued": "Apr 2026",
+      "image": "/images/certifications/claude-architect.jfif",
+      "verificationUrl": "https://verify.skilljar.com/c/r8t47gs89xbj",
+      "skills": ["Anthropic Claude", "Claude Skills"]
+    },
+    {
+      "id": "llmops",
+      "title": "LLMOps - Associate",
+      "issuer": "Fractal",
+      "issued": "Jun 2026",
+      "expires": "Jun 2028",
+      "image": "/images/certifications/llmops.png",
+      "verificationUrl": "https://www.credential.net/9d3ba412-aaaa-441b-a4fc-32144204f661#acc.pTAwndNR",
+      "skills": ["Large Language Model Operations", "MLOps"]
+    },
+    {
+      "id": "microsoft-ai-103",
+      "title": "Microsoft Certified: Azure AI Apps and Agents Developer Associate     (AI-103)",
+      "issuer": "Microsoft",
+      "issued": " Aug 2026",
+      "image": "/images/certifications/azure ai apps.jpg",
+      "skills": ["Azure AI", "AI Apps", "AI Agents"]
+    }
+  ]
+}

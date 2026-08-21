@@ -1,0 +1,85 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+  }
+
+  body {
+    @apply bg-base font-body text-primary antialiased;
+  }
+
+  ::selection {
+    @apply bg-accent-start/30 text-primary;
+  }
+
+  :focus-visible {
+    @apply outline-none ring-2 ring-accent-start ring-offset-2 ring-offset-base;
+  }
+}
+
+@layer components {
+  .section-padding {
+    @apply px-4 py-section sm:px-6 lg:px-8;
+  }
+
+  .section-container {
+    @apply mx-auto w-full max-w-content;
+  }
+
+  .section-title {
+    @apply font-display text-section-title font-semibold tracking-tight text-primary;
+  }
+
+  .section-label {
+    @apply text-sm font-medium uppercase tracking-widest text-muted;
+  }
+
+  .gradient-text {
+    @apply bg-accent-gradient bg-clip-text text-transparent;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center rounded-full bg-accent-gradient px-6 py-3 text-sm font-medium text-base transition-all duration-hover ease-out hover:shadow-glow focus-visible:ring-accent-end;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center rounded-full border border-border-subtle bg-surface/50 px-6 py-3 text-sm font-medium text-primary backdrop-blur-sm transition-all duration-hover ease-out hover:border-accent-start/50 hover:bg-surface focus-visible:ring-accent-start;
+  }
+
+  .card-surface {
+    @apply rounded-2xl border border-border-subtle bg-surface;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Subtle grain/noise overlay (~3-4% opacity) */
+.grain-overlay {
+  pointer-events: none;
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  opacity: 0.035;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+  background-repeat: repeat;
+  background-size: 128px 128px;
+}
+
+/* Scroll progress bar */
+.scroll-progress {
+  @apply fixed left-0 top-0 z-[60] h-[2px] bg-accent-gradient;
+  transform-origin: left;
+}

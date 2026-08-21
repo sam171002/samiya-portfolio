@@ -1,0 +1,27 @@
+{
+  "greetings": ["Hello", "नमस्ते", "Bonjour", "سَلَامٌ"],
+  "bio": [
+    "I like building things and asking too many questions. Most of my work sits somewhere between AI, data, and problem-solving. I currently work as a GenAI Engineer, where I develop enterprise AI solutions, RAG pipelines, agentic workflows, and conversational systems.",
+    "But technology has only ever been one part of what I enjoy. I have published a book and multiple research papers. I majored in Electronics Engineering with a minor in Computer Science.",
+    "Eventually, I moved from experimenting with ideas to turning them into something tangible. If I had to sum myself up, I’d say I’m naturally curious, happiest when I’m creating something, and someone who enjoys sharing ideas, having meaningful conversations, and connecting with people."
+  ],
+  "techStack": [
+    "Python",
+    "SQL",
+    "PyTorch",
+    "APIs",
+    "RAG Pipelines",
+    "LangGraph/LangChain",
+    "Vector Databases",
+    "Prompt Engineering & LLM Evaluation",
+    "Docker & Kubernetes",
+    "Mlflow",
+    "Azure",
+    "Claude Code",
+    "Git"
+  ],
+  "photo": {
+    "src": "/images/samiya-about.jpeg",
+    "alt": "Samiya Alam working on GenAI projects"
+  }
+}

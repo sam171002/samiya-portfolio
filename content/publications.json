@@ -1,0 +1,25 @@
+{
+  "book": {
+    "title": "Letters to the Ghosts of People Within Me",
+    "pitch": "A poetry collection exploring love, loss, resilience, self-discovery, and emotional introspection from growing up and facing life's inevitable changes, to confronting past traumas.",
+    "published": "Jun 2024",
+    "cover": "/images/book-cover.jpg",
+    "link": "https://linktr.ee/Samiya_Alam"
+  },
+  "papers": [
+    {
+      "title": "An Ensemble-Based Framework for Enhanced Missing Data Imputation",
+      "venue": "IEEE",
+      "date": "Mar 9, 2025",
+      "abstract": "Proposes a novel ensemble imputation method combining KNN, IterativeImputer, mean, median, and SoftImpute, consistently outperforming individual approaches across missing-data scenarios.",
+      "link": "https://ieeexplore.ieee.org/document/10967640"
+    },
+    {
+      "title": "Multidisciplinary Research: Societal Implications of Technology",
+      "venue": "Bharti Publications",
+      "date": "Apr 21, 2024",
+      "abstract": "Explores how technological advancements are transforming society, examining effects on communication, labor markets, governance, and cultural norms.",
+      "link": "https://drive.google.com/file/d/1VcGe02LHbTO3wM-N6X21y2ZY9Ft4a2Wp/view?usp=sharing"
+    }
+  ]
+}

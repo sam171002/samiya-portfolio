@@ -1,0 +1,16 @@
+{
+  "headline": "Samiya Alam",
+  "subhead": "I work accross AI, data and software, I'm curious about art, life and pretty much anything worth learning.",
+  "cta": {
+    "primary": { "label": "View Projects", "target": "#projects" },
+    "secondary": { "label": "About me", "target": "#about" }
+  },
+  "photo": {
+    "src": "/images/samiya-hero.jpeg",
+    "alt": "Samiya Alam, Generative AI Engineer"
+  },
+  "microInteraction": {
+    "type": "fact",
+    "fact": "Fun fact: I wear glasses pretty much all the time! Also, I have a cat named Laila who is a bit of a diva!!"
+  }
+}

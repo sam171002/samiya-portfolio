@@ -1,0 +1,18 @@
+{
+  "testimonials": [
+    {
+      "id": "testimonial-1",
+      "quote": "Samiya is one of the most helpful and collaborative people I’ve had the pleasure of working with. She truly understands the importance of teamwork and is always willing to support others with their tasks whenever they need help. She has a natural ability to lead, bringing people together and creating a supportive environment within the team. She is someone you can always count on, both as a teammate and as a leader",
+      "name": "Khushi",
+      "title": "Data Scientist",
+      "company": "Fractal Analytics"
+    },
+    {
+      "id": "testimonial-2",
+      "quote": "Samiya was a highly proactive and dependable member of the team. She consistently took ownership of her tasks and could be trusted to follow through on her responsibilities with minimal supervision. I would gladly work with Samiya again and highly recommend her to any team looking for someone who takes responsibility for her work and gets things done",
+      "name": "Adam",
+      "title": "Project Manager",
+      "company": "Google"
+    }
+  ]
+}

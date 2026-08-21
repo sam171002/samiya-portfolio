@@ -1,0 +1,53 @@
+{
+  "projects": [
+    {
+      "id": "omnisource",
+      "title": "OmniSource Chatbot",
+      "tagline": "Multi-Source RAG Agent with LangGraph",
+      "impact": "Autonomous routing across vector search and SQL with full citation tracking",
+      "description": "A multi-source analytics chatbot that autonomously routes user questions to the correct backend: semantic vector search over PDFs, or SQL queries over structured data.",
+      "tech": ["LangGraph", "LangChain", "Vector DB", "SQL", "FastAPI", "Streamlit"],
+      "links": {
+        "demo": "https://omnisource-frontend.onrender.com/",
+        "github": "https://github.com/sam171002/OmniSource-Chatbot.git"
+      },
+      "image": "/images/projects/omnisource.png"
+    },
+    {
+      "id": "qlora",
+      "title": "QLoRA Fine-Tuning (Llama 3.2 3B)",
+      "tagline": "Financial Sentiment Classification",
+      "impact": "Accuracy improved from 89.7% to 97.4% with only 0.75% of parameters trained",
+      "description": "Fine-tuned Meta's Llama 3.2 3B model using QLoRA to specialize it for classifying financial news sentiment.",
+      "tech": ["Llama 3.2", "QLoRA", "PyTorch", "4-bit Quantization"],
+      "links": {
+        "github": "https://github.com/sam171002/Llama-Fine-tuning-with-QLoRA"
+      },
+      "image": "/images/projects/qlora.png"
+    },
+    {
+      "id": "text-to-sql",
+      "title": "Text-to-SQL Conversational Engine",
+      "tagline": "Natural Language to SQL with Gemini",
+      "impact": "90%+ query accuracy across 10+ schemas with sub-2s response times",
+      "description": "Built an NL-to-SQL system powered by Google Gemini with a decoupled FastAPI backend and Streamlit frontend.",
+      "tech": ["Gemini LLM", "FastAPI", "Streamlit", "Python", "SQL"],
+      "links": {
+        "github": "https://github.com/sam171002/Text-2-SQL"
+      },
+      "image": "/images/projects/text-to-sql.png"
+    },
+    {
+      "id": "vit-gender",
+      "title": "Gender Classification with ViT",
+      "tagline": "Vision Transformer for Face Images",
+      "impact": "97% validation accuracy using state-of-the-art transformer architecture",
+      "description": "Deep learning project implementing a Vision Transformer model for binary gender classification from facial images.",
+      "tech": ["Vision Transformer", "PyTorch", "Machine Learning", "Computer Vision"],
+      "links": {
+        "github": "https://github.com/sam171002/Gender-Detection-From-Face-Images"
+      },
+      "image": "/images/projects/vit-gender.png"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "stats": [
+    {
+      "id": "repos",
+      "label": "Public Repos",
+      "source": "github",
+      "githubKey": "public_repos"
+    },
+
+    {
+      "id": "papers",
+      "label": "Research Papers",
+      "value": 3,
+      "source": "static"
+    },
+    {
+      "id": "book",
+      "label": "Published Book",
+      "value": 1,
+      "source": "static"
+    }
+  ]
+}
