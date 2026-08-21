@@ -6,7 +6,7 @@
       "issuer": "Databricks",
       "issued": "Jun 2026",
       "expires": "Jun 2028",
-      "image": "/images/certifications/databricks-genai.jfif",
+      "image": "/images/certifications/databricks-genai.png",
       "verificationUrl": "https://credentials.databricks.com/d66377dc-bd30-4215-b8c1-c10a6dcb49e8#acc.OALFZTsd",
       "skills": ["Generative AI", "Databricks Products"]
     },
@@ -15,7 +15,7 @@
       "title": "Claude Certified Architect",
       "issuer": "Anthropic",
       "issued": "Apr 2026",
-      "image": "/images/certifications/claude-architect.jfif",
+      "image": "/images/certifications/claude-architect.png",
       "verificationUrl": "https://verify.skilljar.com/c/r8t47gs89xbj",
       "skills": ["Anthropic Claude", "Claude Skills"]
     },
