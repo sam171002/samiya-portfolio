@@ -11,6 +11,15 @@
       "skills": ["Generative AI", "Databricks Products"]
     },
     {
+      "id": "microsoft-ai-103",
+      "title": "Microsoft Certified: Azure AI Apps and Agents Developer Associate     (AI-103)",
+      "issuer": "Microsoft",
+      "issued": " Aug 2026",
+      "image": "/images/certifications/azure ai apps.png",
+      "verificationUrl": "https://learn.microsoft.com/api/credentials/share/en-gb/SamiyaAlam-9224/E96482BFD33A0E7?sharingId=E23C008CADE80A1B",
+      "skills": ["Azure AI", "AI Apps", "AI Agents"]
+    },
+    {
       "id": "claude-architect",
       "title": "Claude Certified Architect",
       "issuer": "Anthropic",
@@ -28,14 +37,6 @@
       "image": "/images/certifications/llmops.png",
       "verificationUrl": "https://www.credential.net/9d3ba412-aaaa-441b-a4fc-32144204f661#acc.pTAwndNR",
       "skills": ["Large Language Model Operations", "MLOps"]
-    },
-    {
-      "id": "microsoft-ai-103",
-      "title": "Microsoft Certified: Azure AI Apps and Agents Developer Associate     (AI-103)",
-      "issuer": "Microsoft",
-      "issued": " Aug 2026",
-      "image": "/images/certifications/azure ai apps.jpg",
-      "skills": ["Azure AI", "AI Apps", "AI Agents"]
     }
   ]
 }
